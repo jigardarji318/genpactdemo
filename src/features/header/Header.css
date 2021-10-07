@@ -1,0 +1,11 @@
+.ant-layout-header .ant-menu {
+    background: #001529 !important;
+}
+
+.ant-menu-title-content {
+    color: #1890ff !important;
+}
+
+.ant-menu-horizontal {
+    border-bottom: none !important;
+}
